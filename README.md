@@ -1,6 +1,6 @@
 # Lay Zhi Chen | Audit & Corporate Advisory Portfolio
 
-Welcome to my professional data analytics portfolio. As an Accounting & Finance graduate (UOL-LSE academic framework), my focus centers on bridging corporate accounting frameworks with data-driven workflows—transforming raw financial data into scannable advisory insights for stakeholders and CFOs.
+Welcome to my data analytics portfolio. As an Accounting & Finance graduate, my focus centers on bridging corporate accounting frameworks with data-driven workflows—transforming raw financial data into scannable advisory insights for stakeholders and CFOs.
 
 ---
 
